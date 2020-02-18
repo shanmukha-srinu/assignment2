@@ -1,0 +1,10 @@
+.mainctrl
+{
+    text-align: center;
+    text-decoration: solid;
+    border-style: solid;
+    border-color: red;
+    padding: 3px;
+    height: 400px;
+    font-weight: bold;
+}
